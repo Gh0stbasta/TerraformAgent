@@ -1,0 +1,8 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate*
+*.tfplan
+
+# Lambda deployment package
+lambda_function.zip
